@@ -51,7 +51,7 @@ contract GetRidOfThatBitch is ERC20
     string public constant name = "GetRidOfThatBitch";
 
     // Symbol of token
-    string public constant symbol = "FOt";
+    string public constant symbol = "XXX";
     uint8 public constant decimals = 18;
     uint public Maxsupply = 292038000000 * 10 ** 18; // Max supply muliplies dues to decimal precision
     uint public Totalsupply;
